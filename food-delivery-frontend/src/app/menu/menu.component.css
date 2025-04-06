@@ -1,0 +1,21 @@
+.menu-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.menu-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
